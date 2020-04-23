@@ -1,0 +1,1474 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div>
+      <div>
+        <div>
+          <div>
+            <nav
+              class="navbar-container navbar navbar-expand-lg navbar-light"
+            >
+              <a
+                class="app-name text-light navbar-brand"
+                href="/"
+              >
+                <img
+                  alt=""
+                  class="d-inline-block align-top"
+                  height="30"
+                  src="/logo.svg"
+                  width="30"
+                />
+                React-Babyrezepte
+              </a>
+              <button
+                aria-controls="basic-navbar-nav"
+                aria-label="Toggle navigation"
+                class="navbar-toggler collapsed"
+                type="button"
+              >
+                <span
+                  class="navbar-toggler-icon"
+                />
+              </button>
+              <div
+                class="navbar-collapse collapse"
+                id="basic-navbar-nav"
+              >
+                <div
+                  class="mr-auto navbar-nav"
+                >
+                  <a
+                    class="text-light nav-link"
+                    data-rb-event-key="./"
+                    href="./"
+                  >
+                    Rezepte
+                  </a>
+                  <a
+                    class="text-light nav-link"
+                    data-rb-event-key="./pagetwo"
+                    href="./pagetwo"
+                  >
+                    Babys Ernährungsplan
+                  </a>
+                </div>
+                <form
+                  class="form-container"
+                >
+                  <label
+                    class="form-label mr-3 mt-1 text-light form-label"
+                    for="month"
+                  >
+                    Alter: 
+                  </label>
+                  <select
+                    class="form-age mr-3 form-control form-control-sm"
+                    id="month"
+                  >
+                    <option
+                      value="5"
+                    >
+                      5. Monat
+                    </option>
+                    <option
+                      value="7"
+                    >
+                      7. Monat
+                    </option>
+                    <option
+                      value="9"
+                    >
+                      9. Monat
+                    </option>
+                    <option
+                      value="12"
+                    >
+                      12. Monat
+                    </option>
+                    <option
+                      value="100"
+                    >
+                      Alle
+                    </option>
+                  </select>
+                  <label
+                    class="mr-3 mt-1 text-light breiart form-label"
+                    for="meal-type"
+                  >
+                    Breiart:
+                  </label>
+                  <select
+                    class="form-type mr-3 form-control form-control-sm"
+                    id="meal-type"
+                  >
+                    <option
+                      value="Abendbrei"
+                    >
+                      Abendbrei
+                    </option>
+                    <option
+                      value="Mittagsbrei"
+                    >
+                      Mittagsbrei
+                    </option>
+                    <option
+                      value="Nachmittagsbrei"
+                    >
+                      Nachmittagsbrei
+                    </option>
+                    <option
+                      value="all"
+                    >
+                      Alle
+                    </option>
+                  </select>
+                </form>
+                <button
+                  class="submit-button btn btn-primary btn-sm"
+                  type="button"
+                >
+                  Filtern
+                </button>
+              </div>
+            </nav>
+          </div>
+        </div>
+        <div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Schmelzflocken und Erdbeeren
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-9"
+                >
+                  9
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  20g Schmelzflocken
+                </li>
+                <li>
+                  200ml Vollmilch
+                </li>
+                <li>
+                  ca. 3-4 Erdbeeren
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Schmelzflocken mit der Milch aufkochen.
+                </li>
+                <li>
+                  Abkühlen lassen.
+                </li>
+                <li>
+                  Erdbeeren pürieren und zu dem Schmelzflockenbrei geben und verrühren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/1.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Erbsen und Hirseflocken
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Mittagsbrei"
+                >
+                  Mittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-9"
+                >
+                  9
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100g Erbsen
+                </li>
+                <li>
+                  50g Kartoffeln
+                </li>
+                <li>
+                  10g Hirseflocken
+                </li>
+                <li>
+                  1 EL Rapsöl
+                </li>
+                <li>
+                  3 EL Fruchtsaft
+                </li>
+                <li>
+                  70ml Wasser
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Kartoffeln waschen, schälen und in kleine Stücke schneiden. Zusammen mit den tiefgekühlten Erbsen und etwa 70 ml Wasser in einem kleinen Topf mit geschlossenem Deckel für etwa 10 Minuten leicht kochen lassen.
+                </li>
+                <li>
+                  Die Hirseflocken dazugeben und für weitere 2-3 Minuten garen.
+                </li>
+                <li>
+                  Das Ganze etwas abkühlen lassen und zusammen mit dem Saft und dem Rapsöl fein pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/2.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Papayabrei für Babys
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100ml Wasser
+                </li>
+                <li>
+                  20g Hirseflocken
+                </li>
+                <li>
+                  100g Papaya
+                </li>
+                <li>
+                  1TL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Hirseflocken zusammen mit dem Wasser aufkochen.
+                </li>
+                <li>
+                  Bei leichter Hitze etwa 1-2 Minuten köcheln lassen.
+                </li>
+                <li>
+                  Die Papaya von den Kernen und der Schale befreien und das Fruchtfleisch würfeln.
+                </li>
+                <li>
+                  Zusammen mit dem Rapsöl und dem Hirsebrei pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/3.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Grießbrei mit Mango
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  200ml Vollmilch
+                </li>
+                <li>
+                  20g Vollkorngrieß (Weizen oder Dinkel)
+                </li>
+                <li>
+                  20g Mango
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Milch aufkochen lassen.
+                </li>
+                <li>
+                  Den Grieß mit dem Schneebesen einrühren und noch einmal aufkochen lassen
+                </li>
+                <li>
+                  2-3 Minuten ganz leicht weiter kochen lassen
+                </li>
+                <li>
+                  Die Mango schälen und das Fruchtfleisch vom Kern entfernen und zu dem Brei geben
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/4.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Spinat und Lachs
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Mittagsbrei"
+                >
+                  Mittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-9"
+                >
+                  9
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  50g Spinat
+                </li>
+                <li>
+                  50g Zucchini
+                </li>
+                <li>
+                  50g Kartoffeln
+                </li>
+                <li>
+                  30g Lachs
+                </li>
+                <li>
+                  2-3 EL Obstsaft
+                </li>
+                <li>
+                  1 EL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Den Spinat mit 60 ml Wasser in einen kleinen Topf geben. Zugedeckt bei kleiner Hitze aufkochen lassen
+                </li>
+                <li>
+                  Das Gemüse waschen, die Kartoffeln schälen und beides in sehr kleine Stücke schneiden
+                </li>
+                <li>
+                  Beides zusammen zum Spinat geben und etwa 5 Minuten bei kleiner Hitze köcheln lassen.
+                </li>
+                <li>
+                  Den Lachs in kleine Stücke schneiden. Zum Gemüse geben und für weitere 7-10 Minuten köcheln lassen, bis das Gemüse weich ist.
+                </li>
+                <li>
+                  Alles zusammen mit dem Öl und dem Obstsaft pürieren
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/5.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Vegetarischer Babybrei mit Karotten, Pastinaken und Hirse
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Mittagsbrei"
+                >
+                  Mittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  30g Pastinaken
+                </li>
+                <li>
+                  70g Karotten
+                </li>
+                <li>
+                  50g Kartoffeln
+                </li>
+                <li>
+                  10g Hirseflocken
+                </li>
+                <li>
+                  1 EL Rapsöl
+                </li>
+                <li>
+                  3 EL Fruchtsaft
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Das Gemüse und die Kartoffeln waschen, putzen und in kleine Stücke schneiden.
+                </li>
+                <li>
+                  Alles zusammen mit 70 ml Wasser für etwa 10 Minuten leicht kochen.
+                </li>
+                <li>
+                  Die Hirseflocken dazugeben und für weitere 5 Minuten garen.
+                </li>
+                <li>
+                  Das Ganze etwas abkühlen lassen und zusammen mit dem Saft und dem Rapsöl fein pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/6.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Pastinake und Kalbfleisch
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Mittagsbrei"
+                >
+                  Mittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100g Pastinaken
+                </li>
+                <li>
+                  50g Kartoffel
+                </li>
+                <li>
+                  30g Kalbsfilet
+                </li>
+                <li>
+                  2-3 EL Apfelsaft
+                </li>
+                <li>
+                  1EL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Kartoffel und Pastinaken waschen, schälen und in kleine Stücke schneiden.
+                </li>
+                <li>
+                  Das Kalbsfilet ebenfalls kurz abwaschen und klein würfeln.
+                </li>
+                <li>
+                  Alles zusammen mit etwa 60 ml Wasser in einem kleinen Topf zum Kochen bringen, etwa 10-12 Minuten leicht kochen lassen, bis das Gemüse weich ist.
+                </li>
+                <li>
+                  Den Apfelsaft und das Rapsöl dazu geben und mit dem Kochwasser zusammen fein pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/7.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Fenchel, Karotte und Hirse
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Mittagsbrei"
+                >
+                  Mittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  50g Kartoffel
+                </li>
+                <li>
+                  50g Karotten
+                </li>
+                <li>
+                  50g Bio-Fenchel
+                </li>
+                <li>
+                  10g Hirseflocken
+                </li>
+                <li>
+                  3 EL Orangensaft
+                </li>
+                <li>
+                  1 EL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Kartoffeln und Karotten waschen, schälen und in kleine Stücke schneiden.
+                </li>
+                <li>
+                  Den Fenchel waschen, putzen und ebenfalls klein schneiden.
+                </li>
+                <li>
+                  Das Gemüse zusammen mit 60-70 ml Wasser in einen kleinen Topf geben und etwa 10 Minuten bei geschlossenem Deckel leicht köcheln lassen bis das Gemüse weich ist.
+                </li>
+                <li>
+                  Nun die Hirseflocken dazu geben, die Herdplatte ausschalten und das Ganze noch einmal etwa 1-2 Minuten leicht weiter kochen lassen.Die Resthitze der Herdplatte reicht dafür in der Regel aus.
+                </li>
+                <li>
+                  Anschließend den Orangensaft und das Rapsöl dazu geben und den Babybrei pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/8.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Brokkoli, Lachs und Nudeln
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Mittagsbrei"
+                >
+                  Mittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100g Brokkoli
+                </li>
+                <li>
+                  30g Lachsfilet
+                </li>
+                <li>
+                  50g gekochte Vollkornnudeln
+                </li>
+                <li>
+                  1 EL Rapsöl
+                </li>
+                <li>
+                  2-3 EL Fruchsaft
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Den Brokkoli waschen, putzen und in kleine Röschen teilen.
+                </li>
+                <li>
+                  Das Lachsfilet ebenfalls kurz abwaschen und in kleine Würfel schneiden.
+                </li>
+                <li>
+                  Brokkoli und Lachs zusammen mit 50-60 ml Wasser in einen kleinen Topf geben und mit geschlossenem Deckel etwa 8-10 Minuten kochen lassen, bis der Brokkoli weich ist.
+                </li>
+                <li>
+                  Dann die gekochten Nudeln dazu geben und noch einmal 1-2 Minuten mitkochen lassen.
+                </li>
+                <li>
+                  Alles zusammen mit dem Rapsöl und dem Saft pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/9.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Grießbrei für Babys mit Birne und Apfel
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  50g Apfel
+                </li>
+                <li>
+                  50g Birne
+                </li>
+                <li>
+                  20g Vollkorngrieß (z.B. Dinkel oder Weizen)
+                </li>
+                <li>
+                  1 TL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Apfel und Birne waschen, putzen und mit einer Küchenreibe fein reiben.
+                </li>
+                <li>
+                  100 ml Wasser in einem kleinen Topf zum Kochen bringen.
+                </li>
+                <li>
+                  Den Grieß einrühren. Das fein gerieben Obst ebenfalls dazugeben und den Grießbrei noch einmal 1-2 Minuten leicht kochen lassen.
+                </li>
+                <li>
+                  Zum Schluss noch das Rapsöl unterrühren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/10.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei mit Apfelmus und Hirse
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100g Apfelmus
+                </li>
+                <li>
+                  100ml Wasser
+                </li>
+                <li>
+                  20g Hirseflocken
+                </li>
+                <li>
+                  1 TL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Hirseflocken mit dem Wasser zusammen in einen kleinen Topf geben und aufkochen lassen.
+                </li>
+                <li>
+                  Die Flocken noch 2-3 Minuten weiter quellen lassen.
+                </li>
+                <li>
+                  Den Hirsebrei mit dem Apfelmus vermischen und das Rapsöl unterrühren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/11.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Grießbrei für Babys mit Heidelbeeren
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-7"
+                >
+                  7
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  200ml Vollmilch
+                </li>
+                <li>
+                  20g Grieß
+                </li>
+                <li>
+                  2 EL Heidelbeeren
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Vollmilch in einem kleinen Topf aufkochen und den Grieß einrühren.
+                </li>
+                <li>
+                  Die Heidelbeeren gut waschen und zu dem Grießbrei dazu geben.
+                </li>
+                <li>
+                  Alles zusammen zu einem feinen Babybrei pürieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/12.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Grießbrei für Babys mit Himbeeren
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-9"
+                >
+                  9
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  200ml Vollmilch
+                </li>
+                <li>
+                  20g Grieß
+                </li>
+                <li>
+                  7-10 Himbeeren
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Vollmilch in einem kleinen Topf aufkochen und den Grieß einrühren.
+                </li>
+                <li>
+                  Die Himbeeren gut waschen und zu dem Grießbrei dazugeben.
+                </li>
+                <li>
+                  Alles zusammen fein pürieren oder wenn eurer Baby das schon mag, die Himbeeren einfach nur mit einer Gabel zerdrücken. 
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/13.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Grießbrei mit Waldfrüchten
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-9"
+                >
+                  9
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  200ml Vollmilch
+                </li>
+                <li>
+                  20g Grieß
+                </li>
+                <li>
+                  2 EL gefrorene Waldfrüchte
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Vollmilch in einem kleinen Topf aufkochen und den Grieß einrühren.
+                </li>
+                <li>
+                  Den Grieß mit einem Schneebesen einrühren und noch einmal kurz aufkochen lassen.
+                </li>
+                <li>
+                  Anschließend die Beeren dazu geben und noch etwa 2-3 Minuten ganz leicht weiter köcheln lassen.
+                </li>
+                <li>
+                  Den Grießbrei je nach Alter deines Babys pürieren oder die Beeren einfach mit einer Gabel zerdrücken.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/14.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Zwiebackbrei
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  200ml Vollmilch oder Folgemilch
+                </li>
+                <li>
+                  3	Zwieback
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Der Zwieback wird geraspelt mit der feinen Reibe, sodass es ganz feine Krümmel sind.
+                </li>
+                <li>
+                  Die Folgemilch nach Vorschrift zubereitet und auf die Zwiebackkrümel gegeben.
+                </li>
+                <li>
+                  Dann wird alles umgerührt, ein wenig quellen gelassen, sodass der Brei nicht mehr zu heiß ist.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/15.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Abendbrei mit Haferflocken und Dinkelvollkorngrieß
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Abendbrei"
+                >
+                  Abendbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  230ml Wasser
+                </li>
+                <li>
+                  25g	Haferflocken
+                </li>
+                <li>
+                  20g	Dinkelvollkorngrieß
+                </li>
+                <li>
+                  n.B. Fruchtmus
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Haferflocken und den Grieß mahlen.
+                </li>
+                <li>
+                  Wasser aufkochen und die Haferflocken und den Grieß unterrühren. Kurz köcheln lassen
+                </li>
+                <li>
+                  Dazu kann man Fruchtpüree ohne Zucker z. B. Apfel oder Birne servieren.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/16.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Babybrei aus Vollkorngrieß mit Apfelmus
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100ml Wasser
+                </li>
+                <li>
+                  100g	Apfelmus
+                </li>
+                <li>
+                  20g	Vollkorngrieß
+                </li>
+                <li>
+                  1 TL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Das abgekochte Wasser auf ca. 40-50 Grad abkühlen lassen und die Flocken aufquellen lassen.
+                </li>
+                <li>
+                  Das pürierte Obst und das Rapsöl unterrühren und auf Esstemperatur abkühlen lassen
+                </li>
+                <li>
+                  Vor dem Füttern bitte unbedingt die Temperatur überprüfen.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/11.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Schmelzflockenbrei mit Apfelmus
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100ml Wasser
+                </li>
+                <li>
+                  2 Äpfel
+                </li>
+                <li>
+                  20g	Schmelzflocken
+                </li>
+                <li>
+                  1 TL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Äpfel schälen und klein würfeln. Mit etwas Wasser für ca. 5 Minuten dünsten.
+                </li>
+                <li>
+                  Die Schmelzflocken unterrühren, noch einige Minuten quellen lassen und pürieren.
+                </li>
+                <li>
+                  Vor dem Füttern bitte unbedingt die Temperatur überprüfen.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/11.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Reisflockenbrei mit Apfelmus
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  150ml Wasser
+                </li>
+                <li>
+                  3 TL Apfelmus
+                </li>
+                <li>
+                  20g	Reisflocken
+                </li>
+                <li>
+                  1 TL Rapsöl
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Das Wasser zum kochen bringen und auf 50°C abkühlen lassen.
+                </li>
+                <li>
+                  Die Reisflocken unterrühren und Apfelmus dazugeben
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/11.jpg"
+              />
+            </div>
+          </div>
+          <div
+            class="recipe-box"
+          >
+            <div
+              class="recipe-txt"
+            >
+               
+              <h2
+                class="recipe-name"
+              >
+                Reisbrei mit Birne
+              </h2>
+              <div
+                class="type-age-container"
+              >
+                <h5
+                  class="type-recipe-Nachmittagsbrei"
+                >
+                  Nachmittagsbrei
+                </h5>
+                <h5
+                  class="age-recipe-5"
+                >
+                  5
+                </h5>
+              </div>
+              <ul>
+                <li>
+                  100ml Wasser
+                </li>
+                <li>
+                  20g	Reisflocken
+                </li>
+                <li>
+                  1 TL Rapsöl
+                </li>
+                <li>
+                  100g Birne
+                </li>
+              </ul>
+              <ol>
+                 
+                <li>
+                  Die Birne schälen und klein würfeln. Mit etwas Wasser für ca. 5 Minuten dünsten.
+                </li>
+                <li>
+                  Die Reisflocken unterrühren, noch einige Minuten quellen lassen.
+                </li>
+                <li>
+                  Vor dem Füttern bitte unbedingt die Temperatur überprüfen.
+                </li>
+              </ol>
+            </div>
+            <div>
+              <img
+                alt="Rezeptbild"
+                class="recipe-img"
+                src="./images/10.jpg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="footer-container"
+        >
+          <div
+            class="footer container-fluid mt-3"
+          >
+            <div
+              class="pt-5 pb-1 footer"
+            >
+              <div
+                class="container"
+              >
+                <div
+                  class="row"
+                >
+                  <div
+                    class="col-md-5 col-sm-12"
+                  >
+                    <h2>
+                      React-Babyrezepte
+                    </h2>
+                    <h6>
+                      Developed by MML
+                    </h6>
+                    <p>
+                      <span
+                        class="span-element"
+                      >
+                        <a
+                          href="https://www.linkedin.com/in/marko-lazic-74583a170/"
+                        >
+                          <i
+                            class="fa fa-linkedin-square"
+                          />
+                        </a>
+                      </span>
+                      <span
+                        class="span-element"
+                      >
+                        <a
+                          href="https://twitter.com/MarkoLa16617366"
+                        >
+                          <i
+                            class="fa fa-twitter-square"
+                          />
+                        </a>
+                      </span>
+                      <span
+                        class="span-element"
+                      >
+                        <a
+                          href="mailto: marko.m.lazic@gmail.com?subject=Babyrezepte React App"
+                        >
+                          <i
+                            class="fa fa-envelope-square mr-3"
+                          />
+                        </a>
+                      </span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
